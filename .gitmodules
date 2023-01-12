@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rKIN"]
+	path = rKIN
+	url = https://github.com/salbeke/rkin
+	shallow = true
+	registered = true
