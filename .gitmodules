@@ -8,3 +8,8 @@
 	url = https://github.com/salbeke/rkin
 	shallow = true
 	registered = true
+[submodule "rLFT"]
+	path = rLFT
+	url = https://gitlab.com/albekeecoinfolab/rlft
+	shallow = true
+	registered = true
